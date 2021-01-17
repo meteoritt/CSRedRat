@@ -33,8 +33,9 @@
 ### 🤝🏻 Connect with Me
 
 <a href="mailto:csredrat@gmail.com"><img src="https://img.shields.io/badge/-csredrat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/CSRedRat"><img src="https://img.shields.io/badge/-@csredrat-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/chudakov"><img src="https://img.shields.io/badge/-Sergey%20Chudakov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/CSRedRat"><img src="https://img.shields.io/badge/-@CSRedRat-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/csredrat"><img src="https://img.shields.io/badge/-@csredrat-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://vk.com/csredrat"><img src="https://img.shields.io/badge/-@csredrat-4c75a3?style=flat&logo=VK&logoColor=white"/></a>
+<a href="https://instagram.com/csredrat"><img src="https://img.shields.io/badge/-@csredrat-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.csredrat.gq"><img src="https://img.shields.io/badge/-csredrat.gq-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
