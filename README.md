@@ -26,9 +26,10 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
 
-### ⚙️ GitHub Analytics
-
-![CSRedRat's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CSRedRat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<details>	
+  <summary><b>⚙️ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CSRedRat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</details>
 
 ### 🤝🏻 Connect with Me
 
