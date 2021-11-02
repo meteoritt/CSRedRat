@@ -1,10 +1,7 @@
-### Hey there 👋 I'm Sergey Chudakov aka [CSRedRat](https://github.com/CSRedRat)
-
 ### 👨🏻‍💻 About Me
 
 💡 I love exploring new tech stack, building cool stuffs and develop quick hacks.\
 🎓 I'm currently studying Kotlin.\
-📰 I reading about computer science future & writing tech blog [DevOps по-русски](https://medium.com/ruopsdev)\
 🐧 In my free time, I researching Linux and Open Source.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/CSRedRat/CSRedRat/master//Night-Coding.gif" align="right"/>
@@ -34,10 +31,5 @@
 
 ### 🤝🏻 Connect with Me
 
-<a href="mailto:csredrat@gmail.com"><img src="https://img.shields.io/badge/-csredrat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/CSRedRat"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/chudakov"><img src="https://img.shields.io/badge/-Sergey%20Chudakov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/CSRedRat"><img src="https://img.shields.io/badge/-@CSRedRat-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://chudakov.gq"><img src="https://img.shields.io/badge/-chudakov.gq-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://gitlab.com/CSRedRat"><img src="https://img.shields.io/badge/-GitLab-e24329?style=flat&logo=GitLab&logoColor=white"/></a>
-<a href="https://sergos.medium.com"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white"/></a>
